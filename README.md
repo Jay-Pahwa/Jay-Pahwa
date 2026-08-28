@@ -18,7 +18,6 @@
 -  Final-year B.Tech CSE student at **MIT World Peace University, Pune** | CGPA: **8.75**
 -  I build full-stack systems, ML pipelines, and 3D web experiences
 -  Interested in **FinTech**, **Data Science**, and **Cloud/DevOps**
--  Gamer off the clock — Call of Duty Mobile
 
 ---
 
