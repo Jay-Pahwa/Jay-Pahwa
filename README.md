@@ -46,7 +46,7 @@ Ensemble ML pipeline on SDSS DR17 (10,000 samples) classifying celestial objects
 
 ---
 
-### [EduStream – Cloud Video Streaming Platform](https://github.com/Jay-Pahwa/edustream-microservices)
+### [EduStream – Cloud Video Streaming Platform](https://github.com/Jay-Pahwa/edustream-cloud-platform)
 > Python · HTML · AWS · Load Balancer · DevOps
 
 Cloud-hosted video streaming platform with separate admin and user modules, backed by an AWS load balancer for scalable concurrent streaming.
@@ -97,14 +97,7 @@ Daily volatility and VaR forecasting for BTC and ETH, combining statistical mode
 
 ---
 
-##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Pahwa&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Pahwa&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 <p align="center">
   <i>"Build things that matter."</i>
